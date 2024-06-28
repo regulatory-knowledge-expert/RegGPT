@@ -18,7 +18,8 @@ source venv/bin/activate  # On macOS and Linux
 pip install -r requirements.txt
 ```
 
-4. Run the application
+4. Add your openapi key in app.py file
+5. Run the application
 
 ```
 streamlit run streamlit_app/app.py
