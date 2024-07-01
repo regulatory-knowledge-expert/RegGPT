@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ```
 streamlit run streamlit_app/app.py
 ```
+## Demo
+https://github.com/regulatory-knowledge-expert/RegGPT/assets/42365024/31f5ac62-8566-4298-8bc8-b1f0b3a389e5
+
+
